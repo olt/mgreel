@@ -1,0 +1,19 @@
+{
+  "name": "mgreel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mgreel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mgreel": "mgreel.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "wavefile": "^11.0.0"
+  }
+}
