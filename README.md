@@ -10,6 +10,10 @@ input files. Mono Wave files are converted to stereo.
 Example:
      mgreel --out out.wav mywav/*.wav
 
+Web version
+-----------
+
+A standalone web version is available here: https://www.lorenzostanco.com/lab/morphagene/#mgreel
 
 Requirements
 ------------
@@ -19,15 +23,6 @@ Requirements
 - Download this repository.
 - Change to this directory and call `npm link`.
 - Call `mgreel --out out.wav mywav/*.wav`
-
-
-Web version
------------
-
-Are you a web developer? The wavefile module works in web browsers and it
-should be possible to build a standalone version that can run inside any modern
-web browser, including drag & drop support. However, I'm not web develper and
-this is outside my comfort zone.
 
 
 License
